@@ -26,13 +26,13 @@ h1 h2 h3 h4 h5 h6{
 }
 /* sliders */
 .slide-1{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgb(0, 0, 0, 0.5)), url(/Asset/img/hero-bg.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgb(0, 0, 0, 0.5)), url(hero-bg.jpg);
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
 }
 .slide-2{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgb(0, 0, 0, 0.5)), url(/Asset/img/tuscan-grilled.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgb(0, 0, 0, 0.5)), url(tuscan-grilled.jpg);
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
@@ -61,7 +61,7 @@ h1 h2 h3 h4 h5 h6{
 }
 /* testimonial styling */
 #testimonial{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgb(0, 0, 0, 0.5)), url(/Asset/img/gallery-8.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgb(0, 0, 0, 0.5)), url(gallery-8.jpg);
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;   
